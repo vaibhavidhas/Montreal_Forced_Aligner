@@ -215,8 +215,23 @@ MFA_Project/
 │   ├── audio2.TextGrid
 │
 ├── clean_texts.py
+├── clean_transcripts
+├── Transcripts
+│   ├── audio1.txt
+│   ├── audio2.txt
+├── WAV
+│   ├── audio2.wav
+│   ├── audio2.wav
+├──custom_dict.txt
+├── PRAAT
+├── run_mfa_file
 └── README.md
 ```
+Go to Command Line and inside the directory type 
+```
+python run_mfa_pipeline.py
+```
+
 
 ---
 
