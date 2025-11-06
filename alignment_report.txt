@@ -1,0 +1,48 @@
+=== File: F2BJRLP1.TextGrid ===
+OOV Words:
+  None
+Skipped Phonemes:
+  None
+Timing Offsets (very short phones):
+  None
+
+=== File: F2BJRLP2.TextGrid ===
+OOV Words:
+  None
+Skipped Phonemes:
+  None
+Timing Offsets (very short phones):
+  None
+
+=== File: F2BJRLP3.TextGrid ===
+OOV Words:
+  None
+Skipped Phonemes:
+  None
+Timing Offsets (very short phones):
+  None
+
+=== File: ISLE_SESS0131_BLOCKD02_01_sprt1.TextGrid ===
+OOV Words:
+  None
+Skipped Phonemes:
+  None
+Timing Offsets (very short phones):
+  None
+
+=== File: ISLE_SESS0131_BLOCKD02_02_sprt1.TextGrid ===
+OOV Words:
+  None
+Skipped Phonemes:
+  None
+Timing Offsets (very short phones):
+  None
+
+=== File: ISLE_SESS0131_BLOCKD02_03_sprt1.TextGrid ===
+OOV Words:
+  None
+Skipped Phonemes:
+  None
+Timing Offsets (very short phones):
+  None
+

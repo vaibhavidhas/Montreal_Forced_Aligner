@@ -114,10 +114,10 @@ item []:
             text = "administrative" 
         intervals [26]:
             xmin = 7.49 
-            xmax = 8.13 
+            xmax = 8.12 
             text = "abilities" 
         intervals [27]:
-            xmin = 8.13 
+            xmin = 8.12 
             xmax = 8.54 
             text = "" 
         intervals [28]:
@@ -178,10 +178,10 @@ item []:
             text = "began" 
         intervals [42]:
             xmin = 12.88 
-            xmax = 12.93 
+            xmax = 12.94 
             text = "a" 
         intervals [43]:
-            xmin = 12.93 
+            xmin = 12.94 
             xmax = 13.31 
             text = "decade" 
         intervals [44]:
@@ -568,10 +568,10 @@ item []:
             text = "N" 
         intervals [42]:
             xmin = 2.86 
-            xmax = 2.92 
+            xmax = 2.93 
             text = "Y" 
         intervals [43]:
-            xmin = 2.92 
+            xmin = 2.93 
             xmax = 2.99 
             text = "AH0" 
         intervals [44]:
@@ -820,10 +820,10 @@ item []:
             text = "EY2" 
         intervals [105]:
             xmin = 7.36 
-            xmax = 7.39 
+            xmax = 7.4 
             text = "T" 
         intervals [106]:
-            xmin = 7.39 
+            xmin = 7.4 
             xmax = 7.43 
             text = "IH0" 
         intervals [107]:
@@ -860,10 +860,10 @@ item []:
             text = "IY0" 
         intervals [115]:
             xmin = 7.96 
-            xmax = 8.13 
+            xmax = 8.12 
             text = "Z" 
         intervals [116]:
-            xmin = 8.13 
+            xmin = 8.12 
             xmax = 8.54 
             text = "" 
         intervals [117]:
@@ -1096,10 +1096,10 @@ item []:
             text = "N" 
         intervals [174]:
             xmin = 12.88 
-            xmax = 12.93 
+            xmax = 12.94 
             text = "AH0" 
         intervals [175]:
-            xmin = 12.93 
+            xmin = 12.94 
             xmax = 13.01 
             text = "D" 
         intervals [176]:
@@ -1932,10 +1932,10 @@ item []:
             text = "G" 
         intervals [383]:
             xmin = 29.83 
-            xmax = 30.030001 
+            xmax = 30.040001 
             text = "EY1" 
         intervals [384]:
-            xmin = 30.030001 
+            xmin = 30.040001 
             xmax = 30.18 
             text = "N" 
         intervals [385]:

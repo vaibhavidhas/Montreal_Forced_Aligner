@@ -14,10 +14,10 @@ item []:
         intervals: size = 85 
         intervals [1]:
             xmin = 0.0 
-            xmax = 0.53 
+            xmax = 0.54 
             text = "" 
         intervals [2]:
-            xmin = 0.53 
+            xmin = 0.54 
             xmax = 1.12 
             text = "wanted" 
         intervals [3]:
@@ -360,10 +360,10 @@ item []:
         intervals: size = 310 
         intervals [1]:
             xmin = 0.0 
-            xmax = 0.53 
+            xmax = 0.54 
             text = "" 
         intervals [2]:
-            xmin = 0.53 
+            xmin = 0.54 
             xmax = 0.64 
             text = "W" 
         intervals [3]:
@@ -752,10 +752,10 @@ item []:
             text = "T" 
         intervals [99]:
             xmin = 8.65 
-            xmax = 8.76 
+            xmax = 8.74 
             text = "AY1" 
         intervals [100]:
-            xmin = 8.76 
+            xmin = 8.74 
             xmax = 8.84 
             text = "R" 
         intervals [101]:
@@ -1256,10 +1256,10 @@ item []:
             text = "AE0" 
         intervals [225]:
             xmin = 17.809999 
-            xmax = 17.879999 
+            xmax = 17.870001 
             text = "D" 
         intervals [226]:
-            xmin = 17.879999 
+            xmin = 17.870001 
             xmax = 17.92 
             text = "M" 
         intervals [227]:

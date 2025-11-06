@@ -98,10 +98,10 @@ item []:
             text = "he" 
         intervals [22]:
             xmin = 8.16 
-            xmax = 8.51 
+            xmax = 8.5 
             text = "named" 
         intervals [23]:
-            xmin = 8.51 
+            xmin = 8.5 
             xmax = 9.18 
             text = "republican" 
         intervals [24]:
@@ -772,10 +772,10 @@ item []:
             text = "M" 
         intervals [106]:
             xmin = 8.42 
-            xmax = 8.51 
+            xmax = 8.5 
             text = "D" 
         intervals [107]:
-            xmin = 8.51 
+            xmin = 8.5 
             xmax = 8.55 
             text = "R" 
         intervals [108]:
